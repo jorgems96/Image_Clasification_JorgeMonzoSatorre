@@ -1,6 +1,6 @@
 # Clasificación de tumores pulmonares usando modelos de machine learning y deep learning
 
-Cuaderno de Google Colab del Trabajo Fin de Grado de **Jorge Monzó Satorre** (Grado en Ingeniería
+Cuaderno del Trabajo Fin de Grado de **Jorge Monzó Satorre** (Grado en Ingeniería
 Biomédica, Universidad de Alicante, 2026).
 
 - Tutor: David Gil Méndez (Dpto. Tecnología Informática y Computación)
